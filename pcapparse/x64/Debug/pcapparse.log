@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\shan3\RTMP\视频讲解\imitate_H264Parser\新建文件夹\pcapparse代码工程\pcapparse\pcapparse\h264frameunpack.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\shan3\RTMP\视频讲解\imitate_H264Parser\新建文件夹\pcapparse代码工程\pcapparse\pcapparse\main.cpp(31,34): warning C4101: “e”: 未引用的局部变量
+  pcapparse.vcxproj -> D:\shan3\RTMP\视频讲解\imitate_H264Parser\新建文件夹\pcapparse代码工程\pcapparse\x64\Debug\pcapparse.exe
